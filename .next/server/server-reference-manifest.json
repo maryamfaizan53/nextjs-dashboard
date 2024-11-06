@@ -1,0 +1,70 @@
+{
+  "node": {
+    "40ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/invoices/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "60aba3f961ee808d85fa94ea4fa22444795dfdcd18": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/invoices/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "60c8f80875f9b5b10a2569be92713158104b0b212c": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/invoices/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "709f238f7668bf18b3a5b255e8e6d54d0f8b184985": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/invoices/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER%5C%5CDocuments%5C%5CGitHub%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240ec54fa5c9e9702f5b0bd2c79bdf480e7ee38f8b1%22%2C%22deleteInvoice%22%5D%2C%5B%2260aba3f961ee808d85fa94ea4fa22444795dfdcd18%22%2C%22createInvoice%22%5D%2C%5B%2260c8f80875f9b5b10a2569be92713158104b0b212c%22%2C%22authenticate%22%5D%2C%5B%22709f238f7668bf18b3a5b255e8e6d54d0f8b184985%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "lv2hGvp1evFQw+jiO2TLxwkZjfN4fJxq6DKNQbl8vek="
+}
