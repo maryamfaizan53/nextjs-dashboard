@@ -16,7 +16,7 @@ export const authConfig = {
         if (isLoggedIn) return true;
         return false; // Redirect unauthenticated users to login page
       } else if (isLoggedIn) {
-        return Response.redirect(new URL('https://assignment-submission-october-28-class-8-nextjs-dashboard-app.vercel.app/dashboard', nextUrl));
+        return Response.redirect(new URL('http://localhost:3000/dashboard', nextUrl));
       }
       return true;
     },
