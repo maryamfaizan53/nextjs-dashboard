@@ -2,7 +2,7 @@ import type { NextAuthConfig } from 'next-auth';
 
 export const authConfig = {
   pages: {
-    signIn: '/login',
+    signIn: '/dashboard',
   },
   providers: [
     // added later in auth.ts since it requires bcrypt which is only compatible with Node.js
@@ -16,7 +16,7 @@ export const authConfig = {
         if (isLoggedIn) return true;
         return false; // Redirect unauthenticated users to login page
       } else if (isLoggedIn) {
-        return Response.redirect(new URL('http://localhost:3000/dashboard', nextUrl));
+        return Response.redirect(new URL('http://localhost:3001/dashboard', nextUrl));
       }
       return true;
     },
